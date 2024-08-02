@@ -1,3 +1,5 @@
+-----
+
 🩵 Hi there! Welcome to my profile;
 
 My name is Sarah Rocha ☕
@@ -18,3 +20,7 @@ My name is Sarah Rocha ☕
 
 
 --> sarah10br2.rocha@gmail.com
+
+
+
+-------
